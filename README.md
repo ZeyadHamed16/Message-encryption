@@ -7,30 +7,30 @@ This is a simple C++ program that demonstrates message encryption and decryption
 ---
 
 ## Features
-1- Message Protection
-Converts a plain text message into an encoded message by shifting each character by 3 positions in the ASCII table.
+1- Message Protection:
+ - Converts a plain text message into an encoded message by shifting each character by 3 positions in the ASCII table.
 
-2- Message Recovery
-Decodes the protected message by reversing the shift to reveal the original text.
+2- Message Recovery:
+ - Decodes the protected message by reversing the shift to reveal the original text.
 
-3- Reusable Functions
-protectMessage: Encrypts a given message.
-solveProtectMessage: Decrypts a protected message.
+3- Reusable Functions:
+ - protectMessage: Encrypts a given message.
+ - solveProtectMessage: Decrypts a protected message.
 
-4- Interactive Console Application
-Guides the user to protect and recover messages through a user-friendly console interface.
+4- Interactive Console Application:
+ - Guides the user to protect and recover messages through a user-friendly console interface.
 
 ---
 ---
 
 ## Usage
 1. Protect a Message
-- Input: A plain text message.
-- Output: A protected message with characters shifted by 3 positions.
+ - Input: A plain text message.
+ - Output: A protected message with characters shifted by 3 positions.
 
 3. Recover a Protected Message
-- Input: An encoded message.
-- Output: The original plain text message.
+ - Input: An encoded message.
+ - Output: The original plain text message.
 
 ---
 ---
