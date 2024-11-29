@@ -3,12 +3,8 @@
 ## Overview
 This is a simple C++ program that demonstrates message encryption and decryption using a basic shift cipher technique. It’s a great beginner project to learn about string manipulation, ASCII conversions, and basic algorithms in C++.
 
-
-
 ---
 ---
-
-
 
 ## Features
 1- Message Protection:
@@ -44,6 +40,8 @@ This is a simple C++ program that demonstrates message encryption and decryption
 - Navigate to the project folder: cd message-protector
 - Compile the code using a C++ compiler: g++ -o message_protector main.cpp
 - Run the program: ./message_protector
+
+![Screenshot 2024-11-29 161236](https://github.com/user-attachments/assets/8891377d-0eea-449d-9266-34401486b5a5)
 
 ---
 ---
